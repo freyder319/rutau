@@ -1,0 +1,14 @@
+{
+  "name": "RutaU – Plan de estudio para quien trabaja",
+  "short_name": "RutaU",
+  "description": "Plan de estudio semanal alrededor de tus turnos de trabajo, con alertas antes de atrasarte.",
+  "start_url": "/semana",
+  "display": "standalone",
+  "background_color": "#F5F8FB",
+  "theme_color": "#17324D",
+  "lang": "es-CO",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
